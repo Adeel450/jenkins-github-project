@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1666","test_login[ali@gmail.com-ali@123]","","Tue Dec 31 14:18:37 PKT 2024","passed","Tue Dec 31 14:18:38 PKT 2024","","test_abd","",""
+"","1662","test_login[abd@gmail.com-abd@123]","","Tue Dec 31 14:24:41 PKT 2024","passed","Tue Dec 31 14:24:43 PKT 2024","","test_abd","",""
+"","1565","test_login[abdeali@gmail.com-abdeali@123]","","Tue Dec 31 14:24:42 PKT 2024","passed","Tue Dec 31 14:24:44 PKT 2024","","test_abd","",""
